@@ -12,8 +12,11 @@ import Portfolio9 from '../../assests/portfolio-9.jpg'
 import Portfolio10 from '../../assests/portfolio-10.jpg'
 import Portfolio11 from '../../assests/portfolio-11.jpg'
 import Portfolio12 from '../../assests/portfolio-12.jpg'
+import { convert_image } from './Convert'
+import { hello } from './Convert'
+import { useEffect } from 'react'
 const Portfolio = () => {
-    const data = [
+    let data = [
         {
             id : 1,
             image: Portfolio1,
@@ -88,22 +91,32 @@ const Portfolio = () => {
             detailes: "#"
         },
     ]
+
+    useEffect(
+        () => {
+            for (let i = 0; i < data.length; i++) {
+                convert_image(data[i].image, i);
+            }
+        }
+    );
+
   return (
     <section className="portfolio">
         <h1>Some of our work</h1>
 
         {
-            data.map(({id, image, title, detailes})=>{
+            data.map(({id, image, title, details})=>{
                 return(
                     <figure key={id} className="port-item">
-                        <img src={image} alt="portfolio item"/>
+                        <img src={image} className="port_img" alt="portfolio item"/>
                         <figcaption className="port-desc">
                             <p>{title}</p>
-                            <a href={detailes} className="button button-accent button-small">Project details</a>
+                            <a href={details} className="button button-accent button-small">Project details</a>
                         </figcaption>
                     </figure>
                 )
             })
+            
         }
     </section>
   )
