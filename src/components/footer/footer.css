@@ -2,35 +2,5 @@ footer{
     color: #FFF;
     background-color: #232323;
     text-align: left;
-    padding: 5em 0 0;
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 3rem;
-    place-items: center;
-}
-
-    
-.footer__social-links{
-    display: flex;
-    justify-content: center;
-    gap: 1.5rem;
-}
-
-.footer__social-links a{
-    color: #FFF;
-    background: var(--color-bg);
-    padding: 0.9rem;
-    border-radius: 50%;
-    border: 1px solid #FFF;
-    line-height: 0%;
-}
-
-.footer__social-links > a:hover{
-    color: #232323;
-    background: #FFF;
-    border-color: #232323;
-}
-
-.footer__copyright{
-    color: rgb(168, 168, 168);
+    padding: 5em 0;
 }
