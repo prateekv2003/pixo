@@ -1,27 +1,15 @@
 {
   "files": {
     "main.css": "/pixo/static/css/main.5f5ad615.css",
-    "main.js": "/pixo/static/js/main.9f6989a4.js",
-    "static/media/portfolio-12.webp": "/pixo/static/media/portfolio-12.5ae59b0d186292f5c591.webp",
-    "static/media/portfolio-6.webp": "/pixo/static/media/portfolio-6.4274f835d18c35ae7081.webp",
-    "static/media/portfolio-4.webp": "/pixo/static/media/portfolio-4.4026f283510926c4d230.webp",
-    "static/media/portfolio-1.webp": "/pixo/static/media/portfolio-1.1bceca72e235200d7c84.webp",
-    "static/media/portfolio-8.webp": "/pixo/static/media/portfolio-8.a8e2912fc6ebf20d33c1.webp",
-    "static/media/portfolio-2.webp": "/pixo/static/media/portfolio-2.d5cdcc80c46236387b61.webp",
-    "static/media/portfolio-3.webp": "/pixo/static/media/portfolio-3.a254f6c91ee959c31239.webp",
+    "main.js": "/pixo/static/js/main.5d2052f8.js",
     "static/media/hero-bg1.webp": "/pixo/static/media/hero-bg1.e5f34c3061a02b4da269.webp",
-    "static/media/portfolio-11.webp": "/pixo/static/media/portfolio-11.ba317820a4029675578e.webp",
-    "static/media/portfolio-9.webp": "/pixo/static/media/portfolio-9.4b81e50367f280ab0dae.webp",
-    "static/media/portfolio-5.webp": "/pixo/static/media/portfolio-5.cdf2ad66bf74859115b1.webp",
-    "static/media/portfolio-10.webp": "/pixo/static/media/portfolio-10.f87a2fcb4a00e536118a.webp",
-    "static/media/portfolio-7.webp": "/pixo/static/media/portfolio-7.7fc9ff9b24147340dfe6.webp",
     "static/media/who-we-are.webp": "/pixo/static/media/who-we-are.1de8fd8f658e0ef6fa78.webp",
     "index.html": "/pixo/index.html",
     "main.5f5ad615.css.map": "/pixo/static/css/main.5f5ad615.css.map",
-    "main.9f6989a4.js.map": "/pixo/static/js/main.9f6989a4.js.map"
+    "main.5d2052f8.js.map": "/pixo/static/js/main.5d2052f8.js.map"
   },
   "entrypoints": [
     "static/css/main.5f5ad615.css",
-    "static/js/main.9f6989a4.js"
+    "static/js/main.5d2052f8.js"
   ]
 }
