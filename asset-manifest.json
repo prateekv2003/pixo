@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/pixo/static/css/main.7f830502.css",
-    "main.js": "/pixo/static/js/main.df2c9ac4.js",
-    "static/media/portfolio-12.jpg": "/pixo/static/media/portfolio-12.514678f04bef9e6f8c65.jpg",
-    "static/media/portfolio-8.jpg": "/pixo/static/media/portfolio-8.3d64ac52647722b30837.jpg",
-    "static/media/portfolio-10.jpg": "/pixo/static/media/portfolio-10.f3b15e38cd0f0f65f842.jpg",
-    "static/media/portfolio-6.jpg": "/pixo/static/media/portfolio-6.4a127974b9ee9ad0802c.jpg",
-    "static/media/portfolio-4.jpg": "/pixo/static/media/portfolio-4.fe6e1d506a44d43f21d0.jpg",
-    "static/media/portfolio-2.jpg": "/pixo/static/media/portfolio-2.c4d8533911a73b7d9e97.jpg",
-    "static/media/hero-bg1.jpg": "/pixo/static/media/hero-bg1.1d92e088ae09a3f3d175.jpg",
-    "static/media/portfolio-3.jpg": "/pixo/static/media/portfolio-3.e1e6478da23b7bd4972a.jpg",
-    "static/media/portfolio-1.jpg": "/pixo/static/media/portfolio-1.683bc61b89f36b26f3c4.jpg",
-    "static/media/portfolio-9.jpg": "/pixo/static/media/portfolio-9.0c02096caf9692751faf.jpg",
-    "static/media/portfolio-11.jpg": "/pixo/static/media/portfolio-11.8c0e400b77d5875ee0ec.jpg",
-    "static/media/portfolio-5.jpg": "/pixo/static/media/portfolio-5.136a7d467a68664ab51f.jpg",
-    "static/media/who-we-are.jpg": "/pixo/static/media/who-we-are.865ac44110ad9fe3e066.jpg",
-    "static/media/portfolio-7.jpg": "/pixo/static/media/portfolio-7.f15a764813f068fdb6ba.jpg",
+    "main.css": "/pixo/static/css/main.5f5ad615.css",
+    "main.js": "/pixo/static/js/main.9f6989a4.js",
+    "static/media/portfolio-12.webp": "/pixo/static/media/portfolio-12.5ae59b0d186292f5c591.webp",
+    "static/media/portfolio-6.webp": "/pixo/static/media/portfolio-6.4274f835d18c35ae7081.webp",
+    "static/media/portfolio-4.webp": "/pixo/static/media/portfolio-4.4026f283510926c4d230.webp",
+    "static/media/portfolio-1.webp": "/pixo/static/media/portfolio-1.1bceca72e235200d7c84.webp",
+    "static/media/portfolio-8.webp": "/pixo/static/media/portfolio-8.a8e2912fc6ebf20d33c1.webp",
+    "static/media/portfolio-2.webp": "/pixo/static/media/portfolio-2.d5cdcc80c46236387b61.webp",
+    "static/media/portfolio-3.webp": "/pixo/static/media/portfolio-3.a254f6c91ee959c31239.webp",
+    "static/media/hero-bg1.webp": "/pixo/static/media/hero-bg1.e5f34c3061a02b4da269.webp",
+    "static/media/portfolio-11.webp": "/pixo/static/media/portfolio-11.ba317820a4029675578e.webp",
+    "static/media/portfolio-9.webp": "/pixo/static/media/portfolio-9.4b81e50367f280ab0dae.webp",
+    "static/media/portfolio-5.webp": "/pixo/static/media/portfolio-5.cdf2ad66bf74859115b1.webp",
+    "static/media/portfolio-10.webp": "/pixo/static/media/portfolio-10.f87a2fcb4a00e536118a.webp",
+    "static/media/portfolio-7.webp": "/pixo/static/media/portfolio-7.7fc9ff9b24147340dfe6.webp",
+    "static/media/who-we-are.webp": "/pixo/static/media/who-we-are.1de8fd8f658e0ef6fa78.webp",
     "index.html": "/pixo/index.html",
-    "main.7f830502.css.map": "/pixo/static/css/main.7f830502.css.map",
-    "main.df2c9ac4.js.map": "/pixo/static/js/main.df2c9ac4.js.map"
+    "main.5f5ad615.css.map": "/pixo/static/css/main.5f5ad615.css.map",
+    "main.9f6989a4.js.map": "/pixo/static/js/main.9f6989a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f830502.css",
-    "static/js/main.df2c9ac4.js"
+    "static/css/main.5f5ad615.css",
+    "static/js/main.9f6989a4.js"
   ]
 }
